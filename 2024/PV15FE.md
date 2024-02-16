@@ -175,12 +175,14 @@ puis s'acheter de la coke et des putes
 
 ===================================================================================================
 *Votes
-	* 267.75€   | Achat RPi [7 pour / 1 abstention / 0 contre]
+	* 267.75€     | Achat RPi [7 pour / 1 abstention / 0 contre]
 	* 175€        | Achat de Club Mate [8 pour / 1 abstention]
 	* 20€         | Budget pour prise imprimante tickets [7 pour / 1 contre / 2 abstentions]
 	* 80€         | Hotend de l'imprimante 3D [unanimité - ajourné à maîtrise du sujet]
 
 Total voté : 462.75€
+
+Point budget : On a 977.1€, on va devoir payer 155 pour les bacs de mate qu'on a déjà, avec le budget alloué il nous reste 359.35€ de budget.
 
 ===================================================================================================
 
